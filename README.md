@@ -5,6 +5,8 @@ SLogo is a recreation of Logo - a popular children's coding language. Logo is a 
 
 SLogo uses the MVC paradigm to allow the user to interact with the "turtles" (they can actually become anything you'd like if you upload a new image) on a per expression basis.
 
+![SLogo IDE](https://raw.githubusercontent.com/belaltaher8/SLogo/master/SLogoIDE.PNG)
+
 ## Commands
 
 <?xml version="1.0" encoding="iso-8859-1" ?>
