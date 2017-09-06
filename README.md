@@ -552,7 +552,7 @@ SLogo uses the MVC paradigm to allow the user to interact with the "turtles" (th
 * Belal Taher
 * Daniel Rubinstein
 
-### Time taken
+### Time Taken:
 
 Date started: Feb 16
 
