@@ -548,13 +548,13 @@ SLogo uses the MVC paradigm to allow the user to interact with the "turtles" (th
 
 ## Logistics
 
-### Team Members:
+### Team Members
 * Alex Boss
 * Hari Rajan
 * Belal Taher
 * Daniel Rubinstein
 
-### Time Taken:
+### Time Taken
 
 Date started: Feb 16
 
